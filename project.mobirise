@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "The Friendship Express",
-    "currentPage": "ponies.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -43,7 +43,7 @@
     "noImageResize": ""
   },
   "pages": {
-    "ponies.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "TFE 2018",
