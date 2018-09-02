@@ -1790,7 +1790,7 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qTkA127IK8 {
-  background-image: url("../../../assets/images/panels-by-chirpy-chi-dakqsr2-1024x724.png");
+  background-color: #149dcc;
 }
 .cid-qTkA127IK8 .mbr-text,
 .cid-qTkA127IK8 .mbr-section-btn {
@@ -1822,8 +1822,47 @@ body {
 .cid-r0HRhlN1kD .card-wrapper {
   height: 100%;
 }
+.cid-r0HRhlN1kD P {
+  color: #232323;
+}
+.cid-r2pcHWkAT4 {
+  background-color: #149dcc;
+}
+.cid-r2pcHWkAT4 .form-container {
+  transition: all .2s;
+  border: 1px solid #ffffff;
+  padding: 1rem;
+  background: linear-gradient(#b2ccd2, #55b4d4);
+  border: none;
+}
+.cid-r2pcHWkAT4 .input-group-btn {
+  justify-content: center;
+}
+@media (min-width: 768px) {
+  .cid-r2pcHWkAT4 .content-container {
+    padding-right: 5rem;
+  }
+}
+.cid-r2pcHWkAT4 H1 {
+  color: #232323;
+}
+.cid-r2pcHWkAT4 .mbr-text,
+.cid-r2pcHWkAT4 .mbr-section-btn {
+  color: #232323;
+}
+.cid-r2pu1PZHJ6 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #149dcc;
+}
+.cid-r2pu1PZHJ6 .mbr-section-subtitle {
+  color: #232323;
+}
+.cid-r2pu1PZHJ6 .btn {
+  margin: 0 0 .5rem 0;
+}
 .cid-r0HJQdhjrC {
-  background-image: url("../../../assets/images/rosa-vendor-by-chirpy-chi-dabj6ux-1024x724.png");
+  background-image: url("../../../assets/images/page-14-2000x2829.jpg");
 }
 .cid-r0HJQdhjrC .form-container {
   transition: all .2s;
@@ -1868,6 +1907,76 @@ body {
 .cid-r0HLbCBQNB H1 {
   color: #232323;
 }
+.cid-r2pjPI7CpH {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/panels-by-chirpy-chi-dakqsr2-1024x724.png");
+}
+.cid-r2pjPI7CpH H2 {
+  color: #232323;
+}
+.cid-r2pjPI7CpH H3 {
+  color: #232323;
+}
+.cid-r2pjPI7CpH .mbr-text,
+.cid-r2pjPI7CpH .mbr-section-btn {
+  color: #232323;
+}
+.cid-r2pejjfKeL {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/tfe-2018-poster-night-1-2000x2829.png");
+}
+.cid-r2pejjfKeL .list-group-item {
+  padding: .75rem 3.25rem;
+}
+.cid-r2pejjfKeL .plan {
+  word-break: break-word;
+  position: relative;
+  max-width: 300px;
+  padding-right: 0;
+  padding-left: 0;
+  color: #767676;
+}
+.cid-r2pejjfKeL .plan .list-group-item {
+  position: relative;
+  -webkit-justify-content: center;
+  justify-content: center;
+  border: 0;
+}
+.cid-r2pejjfKeL .plan .list-group-item::after {
+  position: absolute;
+  bottom: 0;
+  left: 20%;
+  width: 60%;
+  height: 2px;
+  content: "";
+  background-color: #eaeaea;
+}
+.cid-r2pejjfKeL .plan .list-group-item:last-child::after {
+  display: none;
+}
+.cid-r2pejjfKeL .plan-header {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.cid-r2pejjfKeL .plan-header,
+.cid-r2pejjfKeL .plan-body {
+  background-color: #fff;
+}
+.cid-r2pejjfKeL .price-figure {
+  font-weight: 700;
+  color: #232323;
+}
+.cid-r2pejjfKeL .price-value {
+  font-weight: 700;
+  vertical-align: top;
+}
+@media (max-width: 550px) {
+  .cid-r2pejjfKeL .price-figure {
+    font-size: 4.25rem;
+  }
+}
 .cid-r0HFZlUMCf .google-map {
   height: 25rem;
   position: relative;
@@ -1894,43 +2003,19 @@ body {
 .cid-r0HFZlUMCf .google-map[data-state="loading"] [data-state-details] {
   display: none;
 }
-.cid-r0HQHcQmOP {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
+.cid-r2tQq5foav {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #232323;
 }
-.cid-r0HQHcQmOP .pricing {
-  padding: 3.3rem;
+.cid-r2tQq5foav .counter-container {
   color: #767676;
-  background-color: #fff;
 }
-@media (max-width: 767px) {
-  .cid-r0HQHcQmOP .pricing {
-    padding: 1.5rem;
-  }
+.cid-r2tQq5foav .counter-container ol {
+  margin-bottom: 0;
 }
-.cid-r0HQHcQmOP .plan-header,
-.cid-r0HQHcQmOP .plan-body {
-  background-color: #fff;
-}
-.cid-r0HQHcQmOP .plan-title {
-  margin-top: 1.4rem;
-}
-.cid-r0HQHcQmOP .price-figure {
-  font-weight: 700;
-  color: #232323;
-}
-@media (max-width: 550px) {
-  .cid-r0HQHcQmOP .price-figure {
-    font-size: 4.25rem;
-  }
-}
-.cid-r0HQHcQmOP .price-value {
-  font-weight: 700;
-  vertical-align: top;
-}
-.cid-r0HQHcQmOP hr {
-  margin: 2rem 0;
+.cid-r2tQq5foav .counter-container ol li {
+  margin-bottom: 1rem;
 }
 .cid-r0HGoOXUf6 {
   padding-top: 90px;
@@ -2058,6 +2143,84 @@ body {
 }
 .cid-r0HO1RHSJe .team-item .item-caption {
   background: #c1c1c1;
+}
+.cid-r14DbLMpgk {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/282446-safe-artist-colon-wafflecannon-derpyhooves-female-mare-pegasus-pony-scrunchyface-1770x836.png");
+}
+.cid-r14DbLMpgk .mbr-figure {
+  margin: 0 auto;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.cid-r14DbLMpgk .mbr-figure img {
+  height: 100%;
+  margin: 0 auto;
+}
+@media (max-width: 991px) {
+  .cid-r14DbLMpgk .mbr-figure img {
+    width: 100% !important;
+  }
+}
+.cid-r14DbLMpgk .mbr-text,
+.cid-r14DbLMpgk .mbr-section-btn {
+  color: #cccccc;
+}
+.cid-r14DbLMpgk H1 {
+  color: #cccccc;
+}
+.cid-r2oY5jUX5T {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #149dcc;
+}
+.cid-r2oY5jUX5T h2 {
+  text-align: center;
+}
+.cid-r2oY5jUX5T h4 {
+  text-align: center;
+  z-index: 1;
+  color: #ffffff;
+}
+.cid-r2oY5jUX5T p {
+  z-index: 1;
+  margin-bottom: 0;
+  color: #ffffff;
+}
+.cid-r2oY5jUX5T .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+  align-items: stretch;
+  -webkit-align-items: stretch;
+}
+.cid-r2oY5jUX5T .card-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+.cid-r2oY5jUX5T .card-img img {
+  z-index: -1;
+  min-height: 100%;
+  min-width: 100%;
+  width: auto;
+  max-width: 600px;
+}
+.cid-r2oY5jUX5T B {
+  color: #232323;
+}
+.cid-r2oY5jUX5T P {
+  color: #149dcc;
+}
+.cid-r2oY5jUX5T .mbr-section-title B {
+  color: #232323;
+}
+.cid-r2oY5jUX5T H4 {
+  color: #232323;
 }
 .cid-r0HFFzrjdg {
   padding-top: 90px;
