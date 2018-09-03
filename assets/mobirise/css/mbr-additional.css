@@ -2147,32 +2147,86 @@ body {
 .cid-r0HO1RHSJe .team-item .item-caption {
   background: #c1c1c1;
 }
-.cid-r14DbLMpgk {
-  padding-top: 90px;
-  padding-bottom: 90px;
+.cid-r2B2xGv3q2 {
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-image: url("../../../assets/images/282446-safe-artist-colon-wafflecannon-derpyhooves-female-mare-pegasus-pony-scrunchyface-1770x836.png");
 }
-.cid-r14DbLMpgk .mbr-figure {
-  margin: 0 auto;
-  width: 100%;
-  display: flex;
+.cid-r2B2xGv3q2 .nav-tabs {
+  -webkit-justify-content: center;
   justify-content: center;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  border-bottom: none;
 }
-.cid-r14DbLMpgk .mbr-figure img {
-  height: 100%;
-  margin: 0 auto;
+.cid-r2B2xGv3q2 .nav-tabs .nav-link {
+  box-sizing: border-box;
+  color: #767676;
+  font-style: normal;
+  font-weight: 500;
+  border-radius: 3px;
+  border: 1px solid #767676;
+  padding: 1rem 3rem;
+  margin: 0.4rem .8rem !important;
+  transition: all .3s;
+}
+.cid-r2B2xGv3q2 .nav-tabs .nav-link:hover {
+  background-color: #149dcc;
+}
+.cid-r2B2xGv3q2 .nav-tabs .nav-link:focus {
+  box-shadow: none;
+  background-color: #149dcc;
+}
+.cid-r2B2xGv3q2 .nav-tabs .nav-link.active {
+  font-weight: 500;
+  color: #ffffff;
+  font-style: normal;
+  border: none;
+  background: #149dcc;
+}
+.cid-r2B2xGv3q2 .nav-tabs .nav-link.active:hover {
+  border: none;
+}
+.cid-r2B2xGv3q2 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-r2B2xGv3q2 p {
+  color: #767676;
+}
+.cid-r2B2xGv3q2 .media-container-row {
+  -webkit-flex-direction: row-reverse;
+  flex-direction: row-reverse;
+}
+.cid-r2B2xGv3q2 .mbr-figure {
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+  -webkit-align-self: flex-start;
+  align-self: flex-start;
+  padding-right: 4rem;
+  padding-right: 0;
+  padding-left: 4rem;
+}
+.cid-r2B2xGv3q2 .mbr-text {
+  word-break: break-word;
 }
 @media (max-width: 991px) {
-  .cid-r14DbLMpgk .mbr-figure img {
-    width: 100% !important;
+  .cid-r2B2xGv3q2 .media-container-row {
+    -webkit-flex-direction: column-reverse;
+    flex-direction: column-reverse;
+  }
+  .cid-r2B2xGv3q2 .mbr-figure {
+    padding-right: 0;
+    padding-left: 0;
+    padding-bottom: 2rem;
+    padding-bottom: 0;
+    padding-top: 2rem;
   }
 }
-.cid-r14DbLMpgk .mbr-text,
-.cid-r14DbLMpgk .mbr-section-btn {
-  color: #cccccc;
+.cid-r2B2xGv3q2 H2 {
+  color: #ffffff;
 }
-.cid-r14DbLMpgk H1 {
-  color: #cccccc;
+.cid-r2B2xGv3q2 P {
+  color: #ffffff;
 }
 .cid-r2oY5jUX5T {
   padding-top: 90px;
