@@ -1373,7 +1373,7 @@ body {
   display: none;
 }
 .cid-r0HCMBiPaA {
-  background-image: url("../../../assets/images/attendees-by-chirpy-chi-dakqsqj-1024x724.png");
+  background-image: url("../../../assets/images/tfe-2018-poster-night-1-2000x2829.png");
 }
 .cid-r0HCMBiPaA .icons-media-container {
   display: flex;
@@ -1399,14 +1399,14 @@ body {
   padding-bottom: 1.5rem;
 }
 .cid-r0HCMBiPaA H1 {
-  color: #ffffff;
+  color: #cc2952;
 }
 .cid-r0HCMBiPaA .mbr-text,
 .cid-r0HCMBiPaA .mbr-section-btn {
-  color: #ffffff;
+  color: #ff3366;
 }
 .cid-r0HCMBiPaA H5 {
-  color: #232323;
+  color: #ff7f9f;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
@@ -1790,7 +1790,7 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qTkA127IK8 {
-  background-color: #149dcc;
+  background-image: url("../../../assets/images/frame-of-empty-ponyville-street-s1e20-1280x720.png");
 }
 .cid-qTkA127IK8 .mbr-text,
 .cid-qTkA127IK8 .mbr-section-btn {
@@ -1805,7 +1805,7 @@ body {
 .cid-r0HRhlN1kD {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #c1c1c1;
+  background-image: url("../../../assets/images/cloudsdale-weather-factory-s1e16-1280x720.png");
 }
 .cid-r0HRhlN1kD h4 {
   font-weight: 500;
@@ -1826,9 +1826,9 @@ body {
   color: #232323;
 }
 .cid-r2pcHWkAT4 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #149dcc;
+  padding-top: 135px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/attendees-by-chirpy-chi-dakqsqj-1024x724.png");
 }
 .cid-r2pcHWkAT4 .form-container {
   transition: all .2s;
@@ -1846,17 +1846,17 @@ body {
   }
 }
 .cid-r2pcHWkAT4 H1 {
-  color: #232323;
+  color: #efefef;
 }
 .cid-r2pcHWkAT4 .mbr-text,
 .cid-r2pcHWkAT4 .mbr-section-btn {
-  color: #232323;
+  color: #efefef;
   text-align: left;
 }
 .cid-r2pu1PZHJ6 {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #149dcc;
+  background-image: url("../../../assets/images/12750-canterlot-architecture-wallpaper-1280x715.png");
 }
 .cid-r2pu1PZHJ6 .mbr-section-subtitle {
   color: #232323;
@@ -1912,24 +1912,38 @@ body {
   color: #232323;
 }
 .cid-r2pjPI7CpH {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 120px;
+  padding-bottom: 120px;
   background-image: url("../../../assets/images/panels-by-chirpy-chi-dakqsr2-1024x724.png");
 }
 .cid-r2pjPI7CpH H2 {
   color: #232323;
+  text-align: center;
 }
 .cid-r2pjPI7CpH H3 {
   color: #232323;
+  text-align: center;
 }
 .cid-r2pjPI7CpH .mbr-text,
 .cid-r2pjPI7CpH .mbr-section-btn {
   color: #232323;
+  text-align: center;
+}
+.cid-r5kro6Wofj {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/campfire-tales-mistmane-by-cheezedoodle96-dbmfcth-937x852.png");
+}
+.cid-r5kro6Wofj H2 {
+  color: #b2ccd2;
+}
+.cid-r5kro6Wofj .mbr-section-subtitle {
+  text-align: center;
 }
 .cid-r2pejjfKeL {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/tfe-2018-poster-night-1-2000x2829.png");
+  background-image: url("../../../assets/images/tfe-logotest121-2000x1112.png");
 }
 .cid-r2pejjfKeL .list-group-item {
   padding: .75rem 3.25rem;
