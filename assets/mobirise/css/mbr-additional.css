@@ -2306,6 +2306,29 @@ body {
 .cid-r0HGoOXUf6 H2 {
   color: #ffffff;
 }
+.cid-r5IaNWkJLP {
+  background: #ffffff;
+}
+.cid-r5IaNWkJLP .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-r5IaNWkJLP .mbr-figure {
+  margin: 0 auto;
+}
+.cid-r5IaNWkJLP figcaption {
+  position: relative;
+}
+.cid-r5IaNWkJLP figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-r5IaNWkJLP .image-block {
+    width: 100% !important;
+  }
+}
 .cid-r0HO1RHSJe {
   padding-top: 90px;
   padding-bottom: 90px;
