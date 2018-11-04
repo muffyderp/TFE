@@ -2841,6 +2841,30 @@ body {
     width: 100% !important;
   }
 }
+.cid-r8r6m9SLX0 {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background: #149dcc;
+}
+.cid-r8r6m9SLX0 .image-block {
+  margin: auto;
+}
+.cid-r8r6m9SLX0 .mbr-figure {
+  margin: 0 auto;
+}
+.cid-r8r6m9SLX0 figcaption {
+  position: relative;
+}
+.cid-r8r6m9SLX0 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-r8r6m9SLX0 .image-block {
+    width: 100% !important;
+  }
+}
 .cid-r5L9tRNZvC {
   background: #149dcc;
 }
