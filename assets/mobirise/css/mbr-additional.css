@@ -3445,11 +3445,12 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-r5LpsDKEYL {
-  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #073b4c;
 }
 .cid-r5LpsDKEYL .image-block {
   margin: auto;
-  width: 100% !important;
 }
 .cid-r5LpsDKEYL .mbr-figure {
   margin: 0 auto;
