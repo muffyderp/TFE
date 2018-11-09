@@ -5071,13 +5071,104 @@ body {
     width: 100% !important;
   }
 }
-.cid-r7880gpcuy {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
+.cid-r8SyNZ7ogE {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/bfg-1200x600.png");
 }
-.cid-r7880gpcuy .mbr-section-subtitle {
-  color: #767676;
+.cid-r8SyNZ7ogE P {
+  color: #232323;
+}
+.cid-r8SyNZ7ogE H3 {
+  color: #232323;
+}
+.cid-r8SyNZ7ogE H1 {
+  color: #232323;
+}
+.cid-r8SBDeoMMc {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #767676;
+}
+.cid-r8SBDeoMMc .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-r8SBDeoMMc .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-r8SBDeoMMc .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-r8SBDeoMMc .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-r8SBDeoMMc .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #232323;
+  background: linear-gradient(to left, #232323, #cccccc) !important;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+}
+.cid-r8SBDeoMMc .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-r8SBDeoMMc .mbr-gallery-item > div:hover:before {
+  opacity: 0.5 !important;
+}
+.cid-r8SBDeoMMc .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+}
+.cid-r8SBDeoMMc .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #232323 !important;
+  background: linear-gradient(to left, #232323, #cccccc) !important;
+  opacity: 0.5;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
+}
+.cid-r8SIhslRhZ {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-r8SIhslRhZ .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-r8SIhslRhZ .section-text {
+  padding: 2rem 0;
+}
+.cid-r8SIhslRhZ .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-r8SIhslRhZ .inner-container {
+    width: 100% !important;
+  }
 }
 .cid-r5qOW2C6yQ {
   padding-top: 30px;
